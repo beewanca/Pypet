@@ -26,5 +26,7 @@ print('Her actual weight is', worm['weight'],
 
 feed(worm)
 
+input('Press Enter...')
+
 print('My worm ate the food and its final weight is', worm['weight'],
       '\n''Now she looks like this:''\n' + worm['photo'])
