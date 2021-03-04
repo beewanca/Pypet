@@ -1,4 +1,4 @@
-# My first PyPet
+# PyPet
 
 ## 🇺🇸 In English
 Learning programming fundamentals in Python following Tatiana Tylosky's interactive tutorial available on [CREATE A PYPET].
