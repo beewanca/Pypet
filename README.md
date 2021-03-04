@@ -1,4 +1,4 @@
 # My-first-Pypet
-Learning programming fundamentals in Python following Tatiana Tylosky's tutorial available on [CREATE A PYPET].
+Learning programming fundamentals in Python following Tatiana Tylosky's interactive tutorial available on [CREATE A PYPET].
 
 [CREATE A PYPET]: https://www.thinkful.com/learn/intro-to-python-tutorial/
