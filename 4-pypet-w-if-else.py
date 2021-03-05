@@ -19,7 +19,7 @@ worm = {
 def feed(worm):
     if worm['hungry'] == False:
         worm['hungry'] = True
-        worm['weight'] += + 1.5
+        worm['weight'] += 1.5
         worm['photo'] += '~~'
     else:
         print('Pyworm is not hungry!''\n')
