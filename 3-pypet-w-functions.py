@@ -8,15 +8,15 @@ worm = {
      'photo': '~~~~~~~',
 }
 
-print("It's called " + worm["name"] + "!" + "\n" +
-      "And now I'll feed her""\n")
+print('It\'s called ' + worm["name"] + '!' + '\n' +
+      'And now I\'ll feed her\n')
 def feed(worm):
     worm['hungry'] = True
     worm['weight'] += 1.5
     worm['photo'] += '~~'
 
 print('Her actual weight is', worm['weight'],
-      '\n''She looks like this:''\n' + worm['photo'],'\n')
+      '\nShe looks like this:\n' + worm['photo'],'\n')
 
 feed(worm)
 
