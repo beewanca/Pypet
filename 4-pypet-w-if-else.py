@@ -1,5 +1,5 @@
-print("Welcome to Pypet!", "\n" +
-      "We'll try to feed Pyworm""\n")
+print('Welcome to Pypet!\n' +
+      'We\'ll try to feed Pyworm\n')
 
 input('Press Enter...')
 
@@ -16,8 +16,8 @@ def feed(worm):
         worm['weight'] += 1.5
         worm['photo'] += '~~'
     else:
-        print('Pyworm is not hungry!''\n')
+        print('Pyworm is not hungry!\n')
 
 feed(worm)
 print('Her weight is', worm['weight'],
-      'and she looks like this:''\n' + worm['photo'])
+      'and she looks like this:\n' + worm['photo'])
